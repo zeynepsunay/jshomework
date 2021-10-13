@@ -1,0 +1,2 @@
+# jshomework
+Javascript saat ödevi
